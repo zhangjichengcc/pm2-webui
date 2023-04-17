@@ -14,7 +14,7 @@ jobs:
       REMOTE_HOST: 118.190.52.53
       REMOTE_USER: root
       TARGET_PATH: /opt/webServer/pm2-webui
-      TARGET_DIR: docs
+      TARGET_DIR: pm2-webui
 
     # 步骤
     steps:
